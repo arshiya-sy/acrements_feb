@@ -1,0 +1,78 @@
+  .mission-vision-section {
+      background-color: #021F2D;
+      padding: 40px;
+  }
+
+  .mission-vision {
+      display: flex;
+      justify-content: space-between;
+      gap: 40px;
+  }
+
+  .vision,
+  .mission {
+      width: 48%;
+      padding: 20px;
+      background-color: #f1f1f1;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: left;
+  }
+
+  .vision p,
+  .mission p {
+      color: #6c757d;
+      width: 500px;
+  }
+
+  .vm-subheading {
+      font-weight: 600;
+      font-size: 35px;
+      letter-spacing: 1px;
+      margin-bottom: 30px;
+      color: #f1c700;
+  }
+
+  .vm-heading {
+      font-weight: 100;
+      font-size: 16px;
+      letter-spacing: 10px;
+      color: #000000;
+      margin-bottom: 10px;
+  }
+
+  .vision {
+      position: relative;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      height: 420px;
+      overflow: hidden;
+  }
+
+  .vision-icon {
+      position: absolute;
+      bottom: -40px;
+      left: -20px;
+      width: 250px;
+      height: auto;
+  }
+
+  .mission {
+      position: relative;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      height: 420px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+  }
+
+  .mission-icon {
+      position: absolute;
+      top: -10px;
+      right: -15px;
+      width: 220px;
+      height: auto;
+      transform: rotate(10deg);
+      filter: blur(1px);
+  }

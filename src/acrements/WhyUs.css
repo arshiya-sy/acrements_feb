@@ -1,0 +1,12 @@
+.why-choose-us {
+    text-align: center;
+    padding: 120px;
+    background-color: #021F2D;
+  }
+  
+  .why-us-header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  

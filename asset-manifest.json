@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acrements_feb/static/css/main.5ce9808a.css",
-    "main.js": "/acrements_feb/static/js/main.2d3b6110.js",
+    "main.css": "/acrements_feb/static/css/main.1770ec1c.css",
+    "main.js": "/acrements_feb/static/js/main.b3a16317.js",
     "static/js/488.c2fc35f9.chunk.js": "/acrements_feb/static/js/488.c2fc35f9.chunk.js",
     "static/media/herosec.png": "/acrements_feb/static/media/herosec.3b5ccb633935f9487536.png",
     "static/media/AboutUs.svg": "/acrements_feb/static/media/AboutUs.2c984a9fd4312525e80c.svg",
@@ -16,12 +16,12 @@
     "static/media/fa-v4compatibility.ttf": "/acrements_feb/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/acrements_feb/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/acrements_feb/index.html",
-    "main.5ce9808a.css.map": "/acrements_feb/static/css/main.5ce9808a.css.map",
-    "main.2d3b6110.js.map": "/acrements_feb/static/js/main.2d3b6110.js.map",
+    "main.1770ec1c.css.map": "/acrements_feb/static/css/main.1770ec1c.css.map",
+    "main.b3a16317.js.map": "/acrements_feb/static/js/main.b3a16317.js.map",
     "488.c2fc35f9.chunk.js.map": "/acrements_feb/static/js/488.c2fc35f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce9808a.css",
-    "static/js/main.2d3b6110.js"
+    "static/css/main.1770ec1c.css",
+    "static/js/main.b3a16317.js"
   ]
 }

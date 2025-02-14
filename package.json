@@ -15,6 +15,7 @@
     "postcss": "^8.5.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
@@ -23,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "tailwind-init": "npx tailwindcss init"
+    "tailwind-init": "npx tailwindcss init",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +46,8 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.0.0"
-  }
+  },
+  "homepage": "https://arshiya-sy.github.io/acrements_feb"
 }

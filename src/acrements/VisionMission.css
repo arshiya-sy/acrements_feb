@@ -74,5 +74,5 @@
       width: 220px;
       height: auto;
       transform: rotate(10deg);
-      filter: blur(1px);
+      /* filter: blur(1px); */
   }

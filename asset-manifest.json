@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acrements_feb/static/css/main.1e921f4c.css",
-    "main.js": "/acrements_feb/static/js/main.106f9da2.js",
+    "main.js": "/acrements_feb/static/js/main.1ad0a7f9.js",
     "static/js/488.c2fc35f9.chunk.js": "/acrements_feb/static/js/488.c2fc35f9.chunk.js",
     "static/media/herosec.png": "/acrements_feb/static/media/herosec.3b5ccb633935f9487536.png",
     "static/media/AboutUs.svg": "/acrements_feb/static/media/AboutUs.2c984a9fd4312525e80c.svg",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/acrements_feb/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/acrements_feb/index.html",
     "main.1e921f4c.css.map": "/acrements_feb/static/css/main.1e921f4c.css.map",
-    "main.106f9da2.js.map": "/acrements_feb/static/js/main.106f9da2.js.map",
+    "main.1ad0a7f9.js.map": "/acrements_feb/static/js/main.1ad0a7f9.js.map",
     "488.c2fc35f9.chunk.js.map": "/acrements_feb/static/js/488.c2fc35f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e921f4c.css",
-    "static/js/main.106f9da2.js"
+    "static/js/main.1ad0a7f9.js"
   ]
 }

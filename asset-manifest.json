@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acrements_feb/static/css/main.1770ec1c.css",
-    "main.js": "/acrements_feb/static/js/main.b3a16317.js",
+    "main.css": "/acrements_feb/static/css/main.1e921f4c.css",
+    "main.js": "/acrements_feb/static/js/main.106f9da2.js",
     "static/js/488.c2fc35f9.chunk.js": "/acrements_feb/static/js/488.c2fc35f9.chunk.js",
     "static/media/herosec.png": "/acrements_feb/static/media/herosec.3b5ccb633935f9487536.png",
     "static/media/AboutUs.svg": "/acrements_feb/static/media/AboutUs.2c984a9fd4312525e80c.svg",
@@ -11,17 +11,21 @@
     "static/media/fa-brands-400.woff2": "/acrements_feb/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/fa-regular-400.ttf": "/acrements_feb/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/target.png": "/acrements_feb/static/media/target.9fe61f5d2185d034623d.png",
+    "static/media/white-logo.png": "/acrements_feb/static/media/white-logo.b9633ac3588699c8c17a.png",
     "static/media/fa-regular-400.woff2": "/acrements_feb/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/eye.png": "/acrements_feb/static/media/eye.bbed4cf5df94f9a30caa.png",
+    "static/media/dark-logo.png": "/acrements_feb/static/media/dark-logo.e978eed64affe0fae49b.png",
+    "static/media/black-logo.png": "/acrements_feb/static/media/black-logo.4be569059589f2bad1db.png",
+    "static/media/bright-logo.png": "/acrements_feb/static/media/bright-logo.8aaf314743538c449d43.png",
     "static/media/fa-v4compatibility.ttf": "/acrements_feb/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/acrements_feb/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/acrements_feb/index.html",
-    "main.1770ec1c.css.map": "/acrements_feb/static/css/main.1770ec1c.css.map",
-    "main.b3a16317.js.map": "/acrements_feb/static/js/main.b3a16317.js.map",
+    "main.1e921f4c.css.map": "/acrements_feb/static/css/main.1e921f4c.css.map",
+    "main.106f9da2.js.map": "/acrements_feb/static/js/main.106f9da2.js.map",
     "488.c2fc35f9.chunk.js.map": "/acrements_feb/static/js/488.c2fc35f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1770ec1c.css",
-    "static/js/main.b3a16317.js"
+    "static/css/main.1e921f4c.css",
+    "static/js/main.106f9da2.js"
   ]
 }

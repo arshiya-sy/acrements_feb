@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./Navbar.css";
+import { Link } from "react-router-dom";
+import whiteLogo from "./white-logo.png"
+import brightLogo from "./bright-logo.png"
 
 const Navbar = () => {
   const [scrolling, setScrolling] = useState(false);
@@ -7,9 +10,9 @@ const Navbar = () => {
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 150) {
-        setScrolling(true); 
+        setScrolling(true);
       } else {
-        setScrolling(false); 
+        setScrolling(false);
       }
     };
 
@@ -24,7 +27,9 @@ const Navbar = () => {
     <nav className={`navbar ${scrolling ? "navbar-scrolled" : ""}`}>
       <div className="navbar-container">
         <div className="navbar-logo">
-          <a href="/">A</a>
+          <a href="/">
+            <img src={scrolling? brightLogo : whiteLogo} alt="logo" className="logo-img"/>
+          </a>
         </div>
 
         <div className="navbar-links">
@@ -36,10 +41,7 @@ const Navbar = () => {
               <a href="#about">About</a>
             </li>
             <li>
-              <a href="#services">Services</a>
-            </li>
-            <li>
-              <a href="#contact">Contact</a>
+              <Link to="/careers">Careers</Link>
             </li>
           </ul>
         </div>

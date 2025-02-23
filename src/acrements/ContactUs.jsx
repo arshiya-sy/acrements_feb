@@ -7,7 +7,7 @@ export default function ContactUs() {
                     <h2>Contact Us</h2>
                     <div class="info-item">
                         <h3>Address</h3>
-                        <p>44/1 Hoysala Nagar, Ramamurthy Nagar,<br/> Bengaluru, Karnataka 560016</p>
+                        <p>44/1 Hoysala Nagar, Ramamurthy Nagar,<br /> Bengaluru, Karnataka 560016</p>
                     </div>
 
                     <div class="info-item">
@@ -21,14 +21,22 @@ export default function ContactUs() {
                     </div>
                 </div>
             </div>
+            
             <div class="social-media">
                 <h3>Follow Us</h3>
                 <div class="icons">
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-facebook-f"></i>
-                    <i class="fab fa-whatsapp"></i>
+                <a href="https://www.instagram.com/acrements?igsh=YWhjeWVsbWUxdHJ6&utm_source=qr" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://www.facebook.com/share/14FiLqyExw/?mibextid=wwXIfr" target="_blank">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://wa.link/xy6kki" target="_blank">
+                        <i class="fab fa-whatsapp"></i>
+                    </a>
                 </div>
             </div>
+
 
             <div class="waves">
                 <svg viewBox="0 0 1200 100" preserveAspectRatio="none">

@@ -109,5 +109,10 @@
     transform: scale(1.2);
 }
 
+.icons a {
+    color: inherit; 
+    text-decoration: none; 
+}
+
 
 

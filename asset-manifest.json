@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acrements_feb/static/css/main.1e921f4c.css",
-    "main.js": "/acrements_feb/static/js/main.1ad0a7f9.js",
+    "main.css": "/acrements_feb/static/css/main.5fe295f4.css",
+    "main.js": "/acrements_feb/static/js/main.b1c947b9.js",
     "static/js/488.c2fc35f9.chunk.js": "/acrements_feb/static/js/488.c2fc35f9.chunk.js",
     "static/media/herosec.png": "/acrements_feb/static/media/herosec.3b5ccb633935f9487536.png",
     "static/media/AboutUs.svg": "/acrements_feb/static/media/AboutUs.2c984a9fd4312525e80c.svg",
@@ -14,18 +14,19 @@
     "static/media/white-logo.png": "/acrements_feb/static/media/white-logo.b9633ac3588699c8c17a.png",
     "static/media/fa-regular-400.woff2": "/acrements_feb/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/eye.png": "/acrements_feb/static/media/eye.bbed4cf5df94f9a30caa.png",
+    "static/media/residential.png": "/acrements_feb/static/media/residential.386f814aabc4751e34d8.png",
     "static/media/dark-logo.png": "/acrements_feb/static/media/dark-logo.e978eed64affe0fae49b.png",
     "static/media/black-logo.png": "/acrements_feb/static/media/black-logo.4be569059589f2bad1db.png",
     "static/media/bright-logo.png": "/acrements_feb/static/media/bright-logo.8aaf314743538c449d43.png",
     "static/media/fa-v4compatibility.ttf": "/acrements_feb/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/acrements_feb/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/acrements_feb/index.html",
-    "main.1e921f4c.css.map": "/acrements_feb/static/css/main.1e921f4c.css.map",
-    "main.1ad0a7f9.js.map": "/acrements_feb/static/js/main.1ad0a7f9.js.map",
+    "main.5fe295f4.css.map": "/acrements_feb/static/css/main.5fe295f4.css.map",
+    "main.b1c947b9.js.map": "/acrements_feb/static/js/main.b1c947b9.js.map",
     "488.c2fc35f9.chunk.js.map": "/acrements_feb/static/js/488.c2fc35f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e921f4c.css",
-    "static/js/main.1ad0a7f9.js"
+    "static/css/main.5fe295f4.css",
+    "static/js/main.b1c947b9.js"
   ]
 }

@@ -35,11 +35,11 @@ const Navbar = () => {
         <div className="navbar-links">
           <ul>
             <li>
-              <a href="#home">Home</a>
+              <Link to="/">Home</Link>
             </li>
-            <li>
+            {/* <li>
               <a href="#about">About</a>
-            </li>
+            </li> */}
             <li>
               <Link to="/careers">Careers</Link>
             </li>

@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { jobs } from './JobsData';
 import "./Careers.css";
-import darkLogo from "./dark-logo.png"
-import blackLogo from "./black-logo.png"
+import darkLogo from "./dark-logo.png";
+import blackLogo from "./black-logo.png";
+import { Link } from "react-router-dom";
 
 export default function Careers() {
     const [scrolling, setScrolling] = useState(false);
@@ -45,11 +46,11 @@ export default function Careers() {
                     <div className="nav-links">
                         <ul>
                             <li>
-                                <a href="#home">Home</a>
+                                <Link to="/">Home</Link>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a href="#about">About</a>
-                            </li>
+                            </li> */}
                             <li>
                                 <a href="#services">Career</a>
                             </li>

@@ -20,21 +20,67 @@ p {
   letter-spacing: 10px;
   color: #ffffff;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .acre-header2 {
   font-size: 48px;
-  font-weight: 500;
-  color: #f1c700;
   font-weight: 600;
+  color: #f1c700;
   letter-spacing: 1px;
   margin-bottom: 30px;
   width: 900px;
+  text-align: center;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .acre-header1 {
+    font-size: 15px;
+    letter-spacing: 8px;
+  }
+
+  .acre-header2 {
+    font-size: 40px;
+    width: 700px;
+  }
+}
+
+@media (max-width: 768px) {
+  .acre-header1 {
+    font-size: 14px;
+    letter-spacing: 6px;
+  }
+
+  .acre-header2 {
+    font-size: 35px;
+    width: 90%;
+  }
+
+  .App-logo {
+    height: 30vmin;
+  }
+}
+
+@media (max-width: 480px) {
+  .acre-header1 {
+    font-size: 12px;
+    letter-spacing: 4px;
+  }
+
+  .acre-header2 {
+    font-size: 28px;
+    width: 100%;
+  }
+
+  .App-logo {
+    height: 25vmin;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {

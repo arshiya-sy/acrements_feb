@@ -76,3 +76,104 @@
       transform: rotate(10deg);
       /* filter: blur(1px); */
   }
+
+  @media (max-width: 1024px) {
+    .mission-vision-section {
+      padding: 50px 30px;
+    }
+  
+    .vision,
+    .mission {
+      width: 48%;
+      height: auto;
+      padding: 30px;
+    }
+
+    .vm-subheading {
+      font-size: 30px;
+    }
+  
+    .vision p,
+    .mission p {
+      max-width: 100%;
+    }
+  
+    .vision-icon {
+      width: 200px;
+    }
+  
+    .mission-icon {
+      width: 180px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .mission-vision {
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+    }
+  
+    .vision,
+    .mission {
+      width: 100%;
+      padding: 25px;
+      text-align: center;
+    }
+  
+    .vm-subheading {
+      font-size: 28px;
+    }
+  
+    .vision-icon {
+      width: 180px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  
+    .mission-icon {
+      width: 160px;
+      right: 50%;
+      transform: translateX(50%) rotate(10deg);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .mission-vision-section {
+      padding: 40px 20px;
+    }
+  
+    .vm-heading {
+      font-size: 14px;
+      letter-spacing: 6px;
+    }
+  
+    .vm-subheading {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+  
+    .vision,
+    .mission {
+      padding: 20px;
+    }
+
+    .vision-icon {
+        position: absolute;
+        bottom: -20px;
+        left: 30px;
+        width: 110px;
+        height: auto;
+    }
+  
+    .mission-icon {
+        position: absolute;
+        top: -10px;
+        right: -15px;
+        width: 100px;
+        height: auto;
+        transform: rotate(10deg);
+    }
+  }
+
+  

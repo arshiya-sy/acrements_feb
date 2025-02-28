@@ -10,3 +10,21 @@
     flex-direction: column;
   }
   
+  @media (max-width: 1024px) {
+    .why-choose-us {
+      padding: 100px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .why-choose-us {
+      padding: 80px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .why-choose-us {
+      padding: 60px;
+    }
+  }
+  

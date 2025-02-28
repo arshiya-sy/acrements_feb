@@ -17,7 +17,7 @@ export default function ContactUs() {
 
                     <div class="info-item">
                         <h3>Call Us</h3>
-                        <p>+91 </p>
+                        <p>+91 8105375333</p>
                     </div>
                 </div>
             </div>

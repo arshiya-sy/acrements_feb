@@ -7,7 +7,7 @@ import Careers from './acrements/Careers';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/acrements_feb">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/careers" element={<Careers />} />

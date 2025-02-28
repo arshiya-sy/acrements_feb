@@ -26,3 +26,47 @@
     padding: 4px 8px;
     color: rgb(255, 255, 255);
 }
+
+@media (max-width: 1024px) {
+  .contact-section {
+    height: 40vh;
+  }
+
+  .elevate-section h1 {
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-section {
+    height: 35vh;
+  }
+
+  .elevate-section h1 {
+    font-size: 2rem;
+  }
+
+  .highlighted-text {
+    padding: 3px 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-section {
+    height: 30vh;
+    background-attachment: fixed;
+  }
+
+  .elevate-section h1 {
+    font-size: 1.8rem;
+  }
+
+  .outlined-text {
+    -webkit-text-stroke: 0.8px white;
+  }
+
+  .highlighted-text {
+    padding: 2px 4px;
+  }
+}
+
